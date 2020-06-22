@@ -1,0 +1,19 @@
+{
+  "name": "gitpodtest",
+  "version": "1.0.0",
+  "description": "Big ol' test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thrivepolar/gitpodtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thrivepolar/gitpodtest/issues"
+  },
+  "homepage": "https://github.com/thrivepolar/gitpodtest#readme"
+}
